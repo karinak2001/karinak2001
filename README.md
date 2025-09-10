@@ -1,6 +1,6 @@
 ### 👋 Hi, I'm Karina! <br/>
 
-👩‍💻 Currently prusuing a degree in Computer Science at Ashkelon Academic College <br/>
+👩‍💻 Currently pursuing a degree in Computer Science at Ashkelon Academic College <br/>
 🚀 Exploring web apps, AI & cool projects <br/>
 💡 Always learning, always building <br/>
 ⚡ Java • Python • JS • React
@@ -19,5 +19,6 @@
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
+# 📊GitHub Stats
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=karinak2001&show_icons=true&theme=cobalt)
 
