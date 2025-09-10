@@ -4,3 +4,5 @@
 🚀 Exploring web apps, AI & cool projects <br/>
 💡 Always learning, always building <br/>
 ⚡ Java • Python • JS • React
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=karinak2001)](https://github.com/anuraghazra/github-readme-stats)
