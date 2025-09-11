@@ -27,9 +27,11 @@
 ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
 
 
-
-
-
 # 📊GitHub Stats
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=karinak2001&show_icons=true&theme=cobalt)
+
+
+![Snake animation](https://raw.githubusercontent.com/karinak2001/karinak2001/output/github-contribution-grid-snake.svg#gh-light-mode-only)
+![Snake animation](https://raw.githubusercontent.com/karinak2001/karinak2001/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
+
 
